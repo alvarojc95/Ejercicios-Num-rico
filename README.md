@@ -1,2 +1,4 @@
-# Ejercicios-Num-rico
-Ejercicios Análisis Numérico 2017/2018
+# Ejercicios- Analisis Numerico
+
+
+Ejercicios Analisis Numerico 2017/2018
